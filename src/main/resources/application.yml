@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: "galaxy-universe-api"
+galaxy:
+  universe:
+    name: "common-galaxy-universe-api"
